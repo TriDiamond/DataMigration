@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.kafka.consumer.group.instance.id",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.kafka.consumer.group.instance.id'"
+}]}
